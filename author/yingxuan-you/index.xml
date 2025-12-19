@@ -5,27 +5,31 @@
     <link>https://xialipku.github.io/new_page/author/yingxuan-you/</link>
       <atom:link href="https://xialipku.github.io/new_page/author/yingxuan-you/index.xml" rel="self" type="application/rss+xml" />
     <description>Yingxuan You</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0800</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://xialipku.github.io/new_page/author/yingxuan-you/avatar_hue4c897013b618e9d0f5e7b56945f2641_117672_270x270_fill_q80_lanczos_center.jpg</url>
+      <url>https://xialipku.github.io/new_page/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Yingxuan You</title>
       <link>https://xialipku.github.io/new_page/author/yingxuan-you/</link>
     </image>
     
     <item>
-      <title>HYRE: Hybrid Regressor for 3D Human Pose and Shape Estimation</title>
-      <link>https://xialipku.github.io/new_page/publication/tip24-hyre-pose/</link>
-      <pubDate>Wed, 25 Dec 2024 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/tip24-hyre-pose/</guid>
+      <title>Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation</title>
+      <link>https://xialipku.github.io/new_page/publication/tmm25-uncert-tto-pose/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://xialipku.github.io/new_page/publication/tmm25-uncert-tto-pose/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gator: Graph-Aware Transformer with Motion-Disentangled Regression for Human Mesh Recovery from a 2D Pose</title>
-      <link>https://xialipku.github.io/new_page/publication/icassp23-gator-mesh/</link>
-      <pubDate>Sun, 04 Jun 2023 00:00:00 +0800</pubDate>
-      <guid>https://xialipku.github.io/new_page/publication/icassp23-gator-mesh/</guid>
+      <title>Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video</title>
+      <link>https://xialipku.github.io/new_page/publication/iccv23-coevo-mesh/</link>
+      <pubDate>Mon, 02 Oct 2023 21:30:06 +0800</pubDate>
+      <guid>https://xialipku.github.io/new_page/publication/iccv23-coevo-mesh/</guid>
       <description></description>
+    </item>
+    
+  </channel>
+</rss>
     </item>
     
     <item>
